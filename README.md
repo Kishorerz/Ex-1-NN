@@ -1,7 +1,7 @@
 <H3>Name : Kishor Kumar B</H3>
 <H3>Register No : 212223240072</H3>
 <H3>EX. NO.1</H3>
-<H3>25-08-2024</H3>
+<H3>Date</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
